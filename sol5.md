@@ -1,0 +1,1 @@
+here we use idea that if we have array such that every array[i] = maximumSum ending in i-position, we can just take maximum from such array and it will be an answer. but make such array is so easy: array[i] = max(array[i+x, x]), where x = currentElement. But we don't need to storage array itself beacause we need only maximum from him.

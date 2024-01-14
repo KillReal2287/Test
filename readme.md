@@ -1,0 +1,1 @@
+here is my solutions for test. Solutions itself are in sol*.java. Description to solutions are int sol*.md. Also you can test solutions in main.java

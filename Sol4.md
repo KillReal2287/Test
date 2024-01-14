@@ -1,0 +1,1 @@
+Here we use also backtracking approach but we can skip some variants, because we can add two diagonals and columns in  hashsets. if we achieved our n row - we add such variant to answer list.

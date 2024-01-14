@@ -1,0 +1,1 @@
+In this task we use fact that if we have any divider - we meet him before sqrt(n), after we find all such dividers if number is not 1 - it is a prime number itself. 
